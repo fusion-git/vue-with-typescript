@@ -1,17 +1,14 @@
-# vue-with-typescipt
-If you don't have node in your machine [Node Js](https://nodejs.org/en). Version used for this project 20.17.0 LTS.
+# Vue with typescript
 
-Open terminal in root folder and run 'npm install'. This command will download all necessary files for this project.
+This project run in a Node enviroment, if you don't have already insalled on your machine [Node Js](https://nodejs.org/en). Version used for this project 20.17.0 LTS. <br /> <br /> 
 
-After the installation is finishd, type 'npm run database'. Spin-up a fake rest-full APi endpoint.
-
-Open a new terminal and type 'npm run serve'.
+For setup open the terminal and run the fallowing commands: 
 
 ## Project setup
 ```
 npm install
 ```
-
+   
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -21,6 +18,9 @@ npm run serve
 ```
 npm run build
 ```
+### Lints and fixes files
+```
+npm run lint
+```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![imgage alt](image url)
