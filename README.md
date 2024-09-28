@@ -23,4 +23,4 @@ npm run build
 npm run lint
 ```
 
-![imgage alt](image url)
+![imgage alt](https://github.com/fusion-git/vue-with-typescript/blob/743e93c6b67aa16196163056e2db8fda438196f6/Screenshot.png)
